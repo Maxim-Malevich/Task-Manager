@@ -1,0 +1,22 @@
+﻿# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Node
+node_modules/
+ClientApp/dist/
+
+# Rider
+.idea/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Env
+.env
+.env.local
